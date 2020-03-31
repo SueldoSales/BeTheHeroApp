@@ -14,14 +14,5 @@ Tecnologias utilizadas:
 * React Navigation
 * Expo
 
-<img src="https://github.com/SueldoSales/omnistack11Mobile/raw/master/Screenshots/bth_abertura.jpg" width="50%"/>
-
-**Tela de Entrada** - Design [RocketSeat](https://rocketseat.com.br/)
-
-<img src="https://github.com/SueldoSales/omnistack11Mobile/raw/master/Screenshots/bth_principal.jpg" width="50%"/>
-
-**Tela Principal** - Design [RocketSeat](https://rocketseat.com.br/)
-
-<img src="https://github.com/SueldoSales/omnistack11Mobile/raw/master/Screenshots/bth_caso.jpg" width="50%"/>
-
-**Tela de um caso específico** - Design [RocketSeat](https://rocketseat.com.br/)
+![Telas do App](https://github.com/SueldoSales/BeTheHeroApp/raw/master/Screenshots/bth.jpg)
+Design [RocketSeat](https://rocketseat.com.br/)
